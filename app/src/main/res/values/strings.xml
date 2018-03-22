@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeedScout18</string>
+    <string name="list_title">Scouting Files</string>
+    <string name="entry_title">New File</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <string name="action_new">New Match</string>
+    <string name="action_select">Select Matches</string>
+    <string name="action_save">Save Match</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_all">Select All</string>
+    <string name="action_delete">Delete Selections</string>
+    <string name="action_share">Share Selections</string>
+    <string name="action_about">About</string>
+
+    <!-- about strings -->
+    <string name="about_1">SpeedScout18 is an Android port of the iOS app <a href="https://itunes.apple.com/us/app/speedscout18/id1359822250?mt=8>\">SpeedScout18</a> developed by Jacob Steineke of FRC team 3944.</string>
+    <string name="about_2">All data produced by this app is fully-compatible with its iOS counterpart, so your team can use both versions simultaneously!</string>
+    <string name="about_3">This app is free software available under the GNU GPL 3.0 license and all source code is available on <a href="https://github.com/FRC1756-Argos/SpeedScout18-Android">GitHub</a>.</string>
+    <string name="about_4">If you find any bugs or have requests of new features, please <a href="https://github.com/FRC1756-Argos/SpeedScout18-Android/issues/new">file a bug report on GitHub</a> or <a href="mailto:d.k.turner@att.net">send me an email</a>.</string>
+    <string name="about_5">Good luck to all teams!</string>
+
+    <!-- spinner values -->
+    <string-array name="auto_line_array">
+        <item>No</item>
+        <item>Yes</item>
+        <item>Attempted</item>
+    </string-array>
+    <string-array name="auto_switch_array">
+        <item>No</item>
+        <item>Yes</item>
+        <item>Attempted</item>
+    </string-array>
+    <string-array name="auto_scale_array">
+        <item>No</item>
+        <item>Yes</item>
+        <item>Attempted</item>
+    </string-array>
+    <string-array name="tele_cube_ability_array">
+        <item>None</item>
+        <item>Floor</item>
+        <item>Portal</item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="tele_park_array">
+        <item>No</item>
+        <item>Yes</item>
+        <item>Attempted</item>
+    </string-array>
+    <string-array name="tele_climb_array">
+        <item>No</item>
+        <item>Yes</item>
+        <item>Attempted</item>
+    </string-array>
+</resources>
